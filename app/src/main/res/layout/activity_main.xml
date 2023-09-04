@@ -84,7 +84,8 @@
             android:background="@drawable/button_phep_tinh"
             android:gravity="center"
             android:text="+/-"
-            android:textAppearance="@style/c" />
+            android:textAppearance="@style/ac"
+            />
 
         <Button
             android:id="@+id/button_chia"
@@ -328,7 +329,6 @@
             android:background="@drawable/button_phep_tinh"
             android:src="@drawable/ic_delete"
             android:gravity="center"
-            android:textAppearance="@style/c"
             android:padding="24dp"
             />
 
